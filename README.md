@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning System Design & Design patterns.
+- 👯 I’m looking to collaborate on Deep Learning projects.
+- 📫 How to reach me: 
+
+
 -->
+## 📊 GitHub Stats
+
+![Riddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhi-dev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-dev&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=riddhi-dev&theme=radical)](https://git.io/streak-stats)
+
+
