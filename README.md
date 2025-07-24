@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riddhi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-riddhi&label=Profile%20views&color=0e75b6&style=flat" alt="hi-riddhi" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=hi-riddhi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 🔭 I’m currently working on [Recruiter AI.](https://github.com/hi-riddhi/rec.ai)
 
 - 🌱 I’m currently learning **System design and design patterns.**
@@ -21,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-riddhi&show_icons=true&locale=en" alt="hi-riddhi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-riddhi&" alt="hi-riddhi" /></p>
+
