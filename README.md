@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Riddhi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-riddhi&label=Profile%20views&color=0e75b6&style=flat" alt="hi-riddhi" /> </p>
 
-- 🔭 I’m currently working on [Recruiter AI.](https://github.com/hi-riddhi/rec.ai)
+- 🔭 I’m currently working on [Recruiter AI](https://github.com/hi-riddhi/rec.ai)
 
-- 🌱 I’m currently learning **System design and design patterns.**
+- 🌱 I’m currently learning **System design and design patterns**
 
-- 💬 Ask me about **neural networks.**
+- 💬 Ask me about **neural networks**
 
-- ⚡ **I design sometimes.**
+- ⚡ **I design sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
